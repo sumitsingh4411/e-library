@@ -1,0 +1,17 @@
+.sem-all {
+  margin-top: 70px;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  column-gap: 50px;
+  a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+  }
+}
